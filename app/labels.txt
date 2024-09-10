@@ -1,0 +1,8 @@
+Foundation
+Super_Structure
+Electrical
+Furnishing
+Interior
+Landscaping
+Plumbing
+Roofing
